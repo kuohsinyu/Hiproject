@@ -1,8 +1,9 @@
 🎧 YouTube Chinese Sentiment Analyzer
 
 AI-driven NLP pipeline for understanding polarized Chinese discussions
-| Negative Cloud <img width="357" height="636" alt="image" src="https://github.com/user-attachments/assets/096c0f39-c771-4d54-a070-0afde21b9d22" />
-| Positive Cloud <img width="357" height="636" alt="image" src="https://github.com/user-attachments/assets/2c103a63-10e7-4a1e-8b5f-e7df3d46f013" />
+
+| Negative Cloud <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/096c0f39-c771-4d54-a070-0afde21b9d22" />
+| Positive Cloud <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/2c103a63-10e7-4a1e-8b5f-e7df3d46f013" />
 🚀 Overview
 
 A full end-to-end Chinese NLP sentiment analysis system that:
