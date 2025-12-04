@@ -1,0 +1,10 @@
+google-api-python-client
+jieba
+torch
+transformers
+datasets
+matplotlib
+wordcloud
+pillow
+numpy
+tqdm

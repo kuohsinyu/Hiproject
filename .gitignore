@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment (不要上傳)
+.venv/
+
+# VS Code settings
+.vscode/
+.DS_Store
+
+# Trained ML model (太大 & 不適合公開)
+trained_model/
+
+# Local outputs (不要公開太多圖片)
+positive_wordcloud.png
+negative_wordcloud.png
+
+# Training data (可能敏感，不要上傳)
+trainword.json
+
+# Fonts (授權問題)
+*.otf
+*.ttf
+
+# Logs
+logs/
+*.log
+
+# API keys or environment files
+.env
